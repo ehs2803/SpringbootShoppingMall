@@ -1,6 +1,7 @@
 # Shopping mall
 
 Role: Back-end Dev, Front-end Dev, JPA, MySQL, Spring
+
 소요시간: 2022.03 ~ 2022.03
 
 
